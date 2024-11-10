@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to programm Blender Add-ons, OnShape, 3D print and to use microcontrollers
 - 👯 I’m looking to collaborate on the GNC model rocket and bipedal rocket, I'm struggling with the creative aspect of coming up with 3D models from scratch
 - 📫 How to reach me:
-![](https://dcbadge.limes.pink/api/shield/383907505555636226)
+  - ![](https://dcbadge.limes.pink/api/shield/383907505555636226)
 <!--
 **Weebywoo/Weebywoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
