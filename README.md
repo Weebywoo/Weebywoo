@@ -6,7 +6,7 @@
   - ![](https://dcbadge.limes.pink/api/shield/383907505555636226)
   - [Create an issue in this repo](https://github.com/Weebywoo/Weebywoo/issues/new/choose)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weebywoo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Weebywoo/Weebywoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
