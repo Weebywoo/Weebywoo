@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on developing a GNC model rocket, bipedal robot that follows you around on cosplay cons and a Blender Add-on
-- 🌱 I’m currently learning how to programm Blender Add-ons, OnShape, 3D print and to use microcontrollers
-- 👯 I’m looking to collaborate on the GNC model rocket and bipedal rocket, I'm struggling with the creative aspect of coming up with 3D models from scratch
+- 🌱 I’m currently learning how to programm Blender Add-ons, OnShape, 3D print and how to use microcontrollers
+- 👯 I’m looking to collaborate on the GNC model rocket and bipedal robot. I'm struggling with the creative aspect of coming up with 3D models from scratch
 - 📫 How to reach me:
   - ![](https://dcbadge.limes.pink/api/shield/383907505555636226)
   - [Create an issue in this repo](https://github.com/Weebywoo/Weebywoo/issues/new/choose)
