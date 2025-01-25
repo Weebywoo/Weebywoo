@@ -18,7 +18,7 @@
   <a href="mailto:kosmokunert@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  alt="e-mail"/>
   </a>
-  <a href="linkedin.com/in/luca-maria-kosmo-kunert-0a9524349" target="_blank">
+  <a href="https://linkedin.com/in/luca-maria-kosmo-kunert-0a9524349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin"/>
   </a>
   <a href="https://kosmo-kunert.de" target="_blank">
