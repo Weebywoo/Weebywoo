@@ -1,23 +1,39 @@
-## Hi there 👋
-- 🔭 I’m currently working on developing a GNC model rocket, bipedal robot that follows you around on cosplay cons and a Blender Add-on
-- 🌱 I’m currently learning how to programm Blender Add-ons, OnShape, 3D print and how to use microcontrollers
-- 👯 I’m looking to collaborate on the GNC model rocket and bipedal robot. I'm struggling with the creative aspect of coming up with 3D models from scratch
-- 📫 How to reach me:
-  - ![](https://dcbadge.limes.pink/api/shield/383907505555636226)
-  - [Create an issue in this repo](https://github.com/Weebywoo/Weebywoo/issues/new/choose)
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weebywoo)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Weebywoo/Weebywoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate software developer from Germany</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+🔭 I’m currently working on a **r/place-like CLI**
+
+🌱 I’m currently learning **NestJs, Leather crafting & Astrophysics**
+
+💬 Ask me about **Python, Astrophysics, Video games... or anything [here](https://github.com/weebywoo/weebywoo/issues)**
+
+⚡ Fun fact **petting sheep improves your mental well-fair!**
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:kosmokunert@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  alt="e-mail"/>
+  </a>
+  <a href="linkedin.com/in/luca-maria-kosmo-kunert-0a9524349" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin"/>
+  </a>
+  <a href="https://kosmo-kunert.de" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"  alt="portfolio"/>
+  </a>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚒️ Languages, Frameworks & other Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go"  alt="langs"/>
+<br/>
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,react,html,css,scss,express,nestjs"  alt="frameworks"/><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,git,mongodb"  alt="tools"/><br>
+</div>
