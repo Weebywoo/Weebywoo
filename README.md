@@ -10,7 +10,7 @@
 
 💬 Ask me about **Python, Astrophysics, Video games... or anything [here](https://github.com/weebywoo/weebywoo/issues)**
 
-⚡ Fun fact **petting sheep improves your mental well-fair!**
+⚡ Fun fact **petting sheep improves your mental health!**
 
 </div>
 
