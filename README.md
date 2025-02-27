@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on a **r/place-like CLI**
 
-🌱 I’m currently learning **NestJs, Leather crafting & Astrophysics**
+🌱 I’m currently learning **Maths behind Render Engines, Leather crafting & Astrophysics**
 
 💬 Ask me about **Python, Astrophysics, Video games... or anything [here](https://github.com/weebywoo/weebywoo/issues)**
 
@@ -34,6 +34,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go"  alt="langs"/>
 <br/>
-    <img src="https://skillicons.dev/icons?i=fastapi,spring,react,html,css,scss,express,nestjs"  alt="frameworks"/><br>
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,react,html,css,nestjs"  alt="frameworks"/><br>
     <img src="https://skillicons.dev/icons?i=github,figma,git,mongodb"  alt="tools"/><br>
 </div>
